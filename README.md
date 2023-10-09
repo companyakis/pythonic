@@ -1,6 +1,6 @@
 # Reinforcement Learning
 
-Dertsiz başıma dert mi aldım? Pekiştirmeli öğrenme ile ne işim var? Bu soruların yanıtlarını zamanla irdeleyeceğim, ama Coursera'da ###Reinforcement Learning Specialization için başlangıç yaptım. 
+Dertsiz başıma dert mi aldım? Pekiştirmeli öğrenme ile ne işim var? Bu soruların yanıtlarını zamanla irdeleyeceğim, ama Coursera'da Reinforcement Learning Specialization için başlangıç yaptım. 
 
 Birkaç yıldır arayıştaydım ve RL'nin aradığım olduğuna inanıyorum. Zorlu bir yol! 
 
