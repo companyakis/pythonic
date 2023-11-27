@@ -1,5 +1,8 @@
 # Deep Learning, Big Data, Reinforcement Learning, NLP and Deployment Projects
 
+Coursera TensorFlow Developer:
+https://github.com/companyakis/coursera-tf-developer
+
 Deep Learning 101:
 https://github.com/companyakis/deep-learning-101
 
