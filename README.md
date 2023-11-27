@@ -3,9 +3,6 @@
 Coursera TensorFlow Developer:
 https://github.com/companyakis/coursera-tf-developer
 
-Deep Learning 101:
-https://github.com/companyakis/deep-learning-101
-
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
