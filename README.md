@@ -1,4 +1,4 @@
-# Deep Learning, Big Data, Reinforcement Learning and NLP
+# Deep Learning, Big Data, Reinforcement Learning, NLP and Deployment Projects
 
 Deep Learning 101:
 https://github.com/companyakis/deep-learning-101
