@@ -9,9 +9,6 @@ https://github.com/companyakis/dl-sample-project
 Python OOP:
 https://github.com/companyakis/python-oop
 
-PySpark Big Data:
-https://github.com/companyakis/bigdata-pyspark
-
 Flask 101: 
 https://github.com/companyakis/flask101
 
