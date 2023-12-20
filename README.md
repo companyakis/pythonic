@@ -1,4 +1,4 @@
-# Deep Learning, Big Data, Reinforcement Learning, NLP and Deployment Projects
+# AI, Deep Learning, Reinforcement Learning, NLP and Flask Deployment Projects
 
 Coursera TensorFlow Developer:
 https://github.com/companyakis/coursera-tf-developer
