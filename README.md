@@ -1,5 +1,8 @@
 # AI, Deep Learning, Reinforcement Learning, NLP and Flask Deployment Projects
 
+TensorFlow Projects:
+https://github.com/companyakis/tensorflows
+
 Coursera TensorFlow Developer:
 https://github.com/companyakis/coursera-tf-developer
 
