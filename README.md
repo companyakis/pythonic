@@ -1,7 +1,10 @@
-# AI, Deep Learning, Reinforcement Learning, NLP and Deployment Projects
+# AI, Deep Learning, Finance, Reinforcement Learning and NLP
 
 TensorFlow Projects:
 https://github.com/companyakis/tensorflows
+
+Python Finance:
+https://github.com/companyakis/python-finance
 
 Deep Learning 101:
 https://github.com/companyakis/deeplearning101
