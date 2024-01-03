@@ -14,6 +14,3 @@ https://github.com/companyakis/dl-sample-project
 
 Python OOP:
 https://github.com/companyakis/python-oop
-
-HTML 101: 
-https://github.com/companyakis/html
