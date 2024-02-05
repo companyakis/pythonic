@@ -1,5 +1,8 @@
 # AI, Deep Learning, Finance, Reinforcement Learning and NLP
 
+Reinforcement Learning:
+https://github.com/companyakis/reinforcement-learning
+
 TensorFlow Projects:
 https://github.com/companyakis/tensorflows
 
