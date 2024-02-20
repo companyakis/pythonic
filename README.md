@@ -1,4 +1,4 @@
-# AI, Deep Learning, Finance, Reinforcement Learning, WEB, OOP
+# AI, Deep Learning, Finance, Reinforcement Learning
 
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
@@ -8,12 +8,6 @@ https://github.com/companyakis/python-oop-hero
 
 Python OOP Beginner 101:
 https://github.com/companyakis/python-oop-101
-
-HTML 101:
-https://github.com/companyakis/html
-
-Django Blog Beginner App:
-https://github.com/companyakis/django-blog
 
 TensorFlow Projects:
 https://github.com/companyakis/tensorflows
