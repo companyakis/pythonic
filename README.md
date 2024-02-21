@@ -1,5 +1,8 @@
 # AI, Deep Learning, Finance, Reinforcement Learning
 
+Coursera Reinforcement Learning Specialization
+https://github.com/companyakis/coursera-rl
+
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
