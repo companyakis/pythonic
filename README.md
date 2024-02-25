@@ -6,6 +6,9 @@ https://github.com/companyakis/coursera-rl
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
+Genetic Algorithms:
+https://github.com/companyakis/genetic-algorithms
+
 Python OOP Step By Step:
 https://github.com/companyakis/python-oop-hero
 
