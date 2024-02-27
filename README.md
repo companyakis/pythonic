@@ -3,6 +3,9 @@
 Coursera Reinforcement Learning Specialization
 https://github.com/companyakis/coursera-rl
 
+Statistics:
+https://github.com/companyakis/python-statistics
+
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
