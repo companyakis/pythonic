@@ -1,5 +1,8 @@
 # AI, Deep Learning, Finance, Reinforcement Learning
 
+Data Science:
+https://github.com/companyakis/python-data-science
+
 Coursera Reinforcement Learning Specialization
 https://github.com/companyakis/coursera-rl
 
