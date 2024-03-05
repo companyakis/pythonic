@@ -1,16 +1,16 @@
 # AI, Deep Learning, Finance, Reinforcement Learning
 
-Data Science:
-https://github.com/companyakis/python-data-science
+Reinforcement Learning:
+https://github.com/companyakis/reinforcement-learning
 
 Coursera Reinforcement Learning Specialization
 https://github.com/companyakis/coursera-rl
 
+Pandas:
+https://github.com/companyakis/python-pandas
+
 Statistics:
 https://github.com/companyakis/python-statistics
-
-Reinforcement Learning:
-https://github.com/companyakis/reinforcement-learning
 
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
