@@ -6,6 +6,9 @@ https://github.com/companyakis/deep-rl
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
+PyGame (For AI and RL):
+https://github.com/companyakis/pygame
+
 Coursera Reinforcement Learning Specialization
 https://github.com/companyakis/coursera-rl
 
