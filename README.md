@@ -1,5 +1,8 @@
 # AI, Deep Learning, Finance, Reinforcement Learning
 
+Deep Reinforcement Learning Course:
+https://github.com/companyakis/deep-rl
+
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
