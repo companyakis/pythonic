@@ -1,13 +1,13 @@
 # AI, Deep Learning, Reinforcement Learning, Genetic Algorithm
 
+Genetic Algorithms:
+https://github.com/companyakis/genetic-algorithms
+
 Deep Reinforcement Learning Course:
 https://github.com/companyakis/deep-rl
 
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
-
-Genetic Algorithms:
-https://github.com/companyakis/genetic-algorithms
 
 Python OOP Step By Step:
 https://github.com/companyakis/python-oop-hero
