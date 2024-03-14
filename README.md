@@ -1,13 +1,10 @@
-# AI, Deep Learning, Finance, Reinforcement Learning
+# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm
 
 Deep Reinforcement Learning Course:
 https://github.com/companyakis/deep-rl
 
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
-
-Coursera Reinforcement Learning Specialization
-https://github.com/companyakis/coursera-rl
 
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
@@ -20,8 +17,6 @@ https://github.com/companyakis/python-oop-101
 
 TensorFlow Projects:
 https://github.com/companyakis/tensorflows
-
-
 
 Deep Learning 101:
 https://github.com/companyakis/deeplearning101
