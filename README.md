@@ -3,6 +3,9 @@
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
 
+Kaggle Machine Learning Courses:
+kaggle-course-intro-to-machine-learning
+
 Deep Reinforcement Learning Course:
 https://github.com/companyakis/deep-rl
 
