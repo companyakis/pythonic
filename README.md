@@ -1,7 +1,7 @@
 # AI, Deep Learning, Reinforcement Learning, Genetic Algorithm
 
-Kaggle Intro to Game AI and Reinforcement Learning Course:
-https://github.com/companyakis/kaggle-rl
+Genetic Algorithms:
+https://github.com/companyakis/genetic-algorithms
 
 Deep Reinforcement Learning Course:
 https://github.com/companyakis/deep-rl
@@ -23,9 +23,6 @@ https://github.com/companyakis/deeplearning101
 
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
-
-Genetic Algorithms:
-https://github.com/companyakis/genetic-algorithms
 
 Kaggle Machine Learning Courses:
 https://github.com/companyakis/kaggle-ml-courses
