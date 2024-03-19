@@ -24,5 +24,3 @@ https://github.com/companyakis/deeplearning101
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
-Kaggle Machine Learning Courses:
-https://github.com/companyakis/kaggle-ml-courses
