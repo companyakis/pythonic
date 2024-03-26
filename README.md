@@ -1,5 +1,8 @@
 # AI, Deep Learning, Reinforcement Learning, Genetic Algorithm
 
+Deep Learning:
+https://github.com/companyakis/deeplearning2024
+
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
@@ -8,9 +11,6 @@ https://github.com/companyakis/deep-rl
 
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
-
-Kaggle Deep Learning:
-https://github.com/companyakis/deeplearning-kaggle
 
 Python OOP Step By Step:
 https://github.com/companyakis/python-oop-hero
