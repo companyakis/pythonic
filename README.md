@@ -12,9 +12,6 @@ https://github.com/companyakis/deep-rl
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
 
-TensorFlow Projects:
-https://github.com/companyakis/tensorflows
-
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
