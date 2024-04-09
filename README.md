@@ -1,4 +1,4 @@
-# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science
+# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science, Machine Learning
 
 Deep Learning:
 https://github.com/companyakis/deeplearning2024
