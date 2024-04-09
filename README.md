@@ -24,9 +24,6 @@ https://github.com/companyakis/python-finance
 Numpy:
 https://github.com/companyakis/numpy
 
-Python Data Visualization:
-https://github.com/companyakis/data-visualization
-
 Python Data Preprocessing:
 https://github.com/companyakis/data-preprocessing
 
