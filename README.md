@@ -1,5 +1,8 @@
 # AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science, Machine Learning
 
+Flutter Tensorflow Deep Learning:
+https://github.com/companyakis/flutter-tensorflow
+
 Deep Learning:
 https://github.com/companyakis/deeplearning2024
 
