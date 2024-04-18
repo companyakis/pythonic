@@ -3,6 +3,9 @@
 Flutter Tensorflow Mobile App:
 https://github.com/companyakis/flutter-tensorflow-mobile-app
 
+NLP:
+https://github.com/companyakis/python-nlp
+
 Deep Learning:
 https://github.com/companyakis/deeplearning2024
 
