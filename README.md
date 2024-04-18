@@ -1,4 +1,4 @@
-# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science, Machine Learning
+# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science, Machine Learning, NLP
 
 Flutter Tensorflow Mobile App:
 https://github.com/companyakis/flutter-tensorflow-mobile-app
