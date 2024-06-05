@@ -24,8 +24,4 @@ https://github.com/companyakis/genetic-algorithms
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
-Pandas: 
-https://github.com/companyakis/python-pandas
 
-Numpy: 
-https://github.com/companyakis/numpy
