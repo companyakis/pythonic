@@ -1,4 +1,4 @@
-# AI, Deep Learning, Reinforcement Learning, Genetic Algorithm, Data Science, Machine Learning, NLP
+# Python AI 
 
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
