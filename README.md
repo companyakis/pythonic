@@ -3,6 +3,9 @@
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
+Graph Algorithms:
+https://github.com/companyakis/graph-algorithms
+
 Flutter Tensorflow Mobile App:
 https://github.com/companyakis/flutter-tensorflow-mobile-app
 
