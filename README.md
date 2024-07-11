@@ -3,6 +3,9 @@
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
+OpenCV:
+https://github.com/companyakis/opencv
+
 Graph Algorithms:
 https://github.com/companyakis/graph-algorithms
 
