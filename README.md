@@ -1,5 +1,11 @@
 # Python AI 
 
+Reinforcement Learning:
+https://github.com/companyakis/reinforcement-learning
+
+HuggingFace Bootcamp:
+https://github.com/companyakis/hugging-face-bootcamp
+
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
@@ -14,12 +20,6 @@ https://github.com/companyakis/python-nlp
 
 Deep Learning:
 https://github.com/companyakis/deeplearning2024
-
-Reinforcement Learning:
-https://github.com/companyakis/reinforcement-learning
-
-Deep Reinforcement Learning Course:
-https://github.com/companyakis/deep-rl
 
 Genetic Algorithms:
 https://github.com/companyakis/genetic-algorithms
