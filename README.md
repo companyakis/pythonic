@@ -3,6 +3,9 @@
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
+Kaggle DL:
+https://github.com/companyakis/kaggle-dl-course
+
 HuggingFace Bootcamp:
 https://github.com/companyakis/hugging-face-bootcamp
 
