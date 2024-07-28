@@ -1,6 +1,6 @@
 # Python AI 
 
-DeepLearning.AI TensorFlow Developer Professional Certificate:
+DeepLearning AI :
 https://github.com/companyakis/tf-deeplearning
 
 Reinforcement Learning:
