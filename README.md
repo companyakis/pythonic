@@ -3,6 +3,9 @@
 DeepLearning AI :
 https://github.com/companyakis/tf-deeplearning
 
+OpenCV:
+https://github.com/companyakis/python-opencv
+
 Reinforcement Learning:
 https://github.com/companyakis/reinforcement-learning
 
