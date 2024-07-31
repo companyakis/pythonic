@@ -1,13 +1,13 @@
 # Python AI 
 
-DeepLearning AI :
+Reinforcement Learning (Ongoing):
+https://github.com/companyakis/reinforcement-learning
+
+DeepLearning AI (Not completed) :
 https://github.com/companyakis/tf-deeplearning
 
-OpenCV:
+OpenCV (Not completed):
 https://github.com/companyakis/python-opencv
-
-Reinforcement Learning:
-https://github.com/companyakis/reinforcement-learning
 
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
