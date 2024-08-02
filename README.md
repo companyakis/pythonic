@@ -6,9 +6,6 @@ https://github.com/companyakis/reinforcement-learning
 DeepLearning AI (Not completed) :
 https://github.com/companyakis/tf-deeplearning
 
-OpenCV (Not completed):
-https://github.com/companyakis/python-opencv
-
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
