@@ -1,10 +1,10 @@
 # Python AI 
 
+LangChain AI (Ongoing):
+https://github.com/companyakis/langchain-ai
+
 Reinforcement Learning (Ongoing):
 https://github.com/companyakis/reinforcement-learning
-
-Gemini AI (Ongoing):
-https://github.com/companyakis/gemini-ai
 
 DeepLearning AI (Not completed) :
 https://github.com/companyakis/tf-deeplearning
