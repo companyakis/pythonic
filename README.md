@@ -1,8 +1,5 @@
 # Python AI 
 
-LLMs:
-https://github.com/companyakis/langchain-ai
-
 Reinforcement Learning (Ongoing):
 https://github.com/companyakis/reinforcement-learning
 
