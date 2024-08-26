@@ -15,6 +15,9 @@ https://github.com/companyakis/deeplearning2024
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
+Advanced Python:
+https://github.com/companyakis/advanced-python
+
 Pandas: 
 https://github.com/companyakis/python-pandas
 
