@@ -3,6 +3,9 @@
 Reinforcement Learning (Ongoing):
 https://github.com/companyakis/reinforcement-learning
 
+Web3 Data Science:
+https://github.com/companyakis/onchain-data
+
 DeepLearning AI (Not completed) :
 https://github.com/companyakis/tf-deeplearning
 
