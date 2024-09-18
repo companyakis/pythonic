@@ -1,5 +1,8 @@
 # Python AI
 
+Gen AI (Ongoing):
+https://github.com/companyakis/gen-ai
+
 Reinforcement Learning (Ongoing):
 https://github.com/companyakis/reinforcement-learning
 
