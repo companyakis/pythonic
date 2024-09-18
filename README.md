@@ -1,10 +1,10 @@
-# Python AI 
+# Python AI
+
+Gen AI (Ongoing):
+https://github.com/companyakis/gen-ai
 
 Reinforcement Learning (Ongoing):
 https://github.com/companyakis/reinforcement-learning
-
-LangChain AI:
-https://github.com/companyakis/langchain-ai
 
 DeepLearning AI (Not completed) :
 https://github.com/companyakis/tf-deeplearning
