@@ -1,9 +1,12 @@
 # Python AI
 
-Gen AI (Ongoing):
-https://github.com/companyakis/gen-ai
+GANs:
+https://github.com/companyakis/gans
 
-Reinforcement Learning (Ongoing):
+LangChain (Ongoing):
+https://github.com/companyakis/lang-chain
+
+Reinforcement Learning (Wait):
 https://github.com/companyakis/reinforcement-learning
 
 DeepLearning AI (Not completed) :
