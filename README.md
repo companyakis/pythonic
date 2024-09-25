@@ -9,9 +9,6 @@ https://github.com/companyakis/lang-chain
 Reinforcement Learning (Wait):
 https://github.com/companyakis/reinforcement-learning
 
-DeepLearning AI (Not completed) :
-https://github.com/companyakis/tf-deeplearning
-
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
