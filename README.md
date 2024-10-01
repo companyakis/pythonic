@@ -3,6 +3,9 @@
 GenAI and LangChain (Ongoing):
 https://github.com/companyakis/gen-ai-and-lang-chain
 
+Machine Learning:
+https://github.com/companyakis/ml
+
 Reinforcement Learning (Wait):
 https://github.com/companyakis/reinforcement-learning
 
