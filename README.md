@@ -1,7 +1,7 @@
 # Python AI
 
-LangChain (Ongoing):
-https://github.com/companyakis/lang-chain
+GenAI and LangChain (Ongoing):
+https://github.com/companyakis/gen-ai-and-lang-chain
 
 Reinforcement Learning (Wait):
 https://github.com/companyakis/reinforcement-learning
