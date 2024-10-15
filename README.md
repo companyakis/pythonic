@@ -9,9 +9,6 @@ https://github.com/companyakis/reinforcement-learning
 From Numpy to TensorFlow (Ongoing):
 https://github.com/companyakis/from-numpy-to-tensorflow
 
-Data Analysis with Python:
-https://github.com/companyakis/data-analysis-with-python
-
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
