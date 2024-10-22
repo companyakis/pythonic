@@ -1,5 +1,8 @@
 # Python AI
 
+Pandas Strong (Ongoing):
+https://github.com/companyakis/pandas-strong
+
 GenAI and LangChain (Ongoing):
 https://github.com/companyakis/gen-ai-and-lang-chain
 
