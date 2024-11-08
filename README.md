@@ -9,6 +9,9 @@ https://github.com/companyakis/gen-ai-and-lang-chain
 Reinforcement Learning (Wait):
 https://github.com/companyakis/reinforcement-learning
 
+Programming with Python Professional Certificate
+https://github.com/companyakis/py-cert
+
 From Numpy to TensorFlow (Ongoing):
 https://github.com/companyakis/from-numpy-to-tensorflow
 
