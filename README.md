@@ -12,6 +12,9 @@ https://github.com/companyakis/reinforcement-learning
 From Numpy to TensorFlow (Ongoing):
 https://github.com/companyakis/from-numpy-to-tensorflow
 
+Algos (2025):
+https://github.com/companyakis/algos-python
+
 Deep Learning Sample Project:
 https://github.com/companyakis/dl-sample-project
 
