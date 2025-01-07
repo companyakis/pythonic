@@ -1,12 +1,15 @@
 # Python AI
 
-From Numpy to TensorFlow (Ongoing):
+Rag Apps and Milvus DB 2025:
+https://github.com/companyakis/rag-milvus-2025
+
+From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
-GenAI and LangChain (Ongoing):
+GenAI and LangChain:
 https://github.com/companyakis/gen-ai-and-lang-chain
 
-Pandas Strong (Ongoing):
+Pandas Strong:
 https://github.com/companyakis/pandas-strong
 
 Reinforcement Learning (Wait):
