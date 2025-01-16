@@ -1,7 +1,7 @@
 # Python AI
 
-Rag Apps and Milvus DB 2025:
-https://github.com/companyakis/rag-milvus-2025
+AI Agents 2025:
+https://github.com/companyakis/ai-agents-2025
 
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
