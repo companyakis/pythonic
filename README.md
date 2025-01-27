@@ -1,5 +1,8 @@
 # Python AI
 
+Reinforcement Learning 2025:
+https://github.com/companyakis/reinforcement-learning
+
 AI Agents 2025:
 https://github.com/companyakis/ai-agents-2025
 
@@ -11,9 +14,6 @@ https://github.com/companyakis/gen-ai-and-lang-chain
 
 Pandas Strong:
 https://github.com/companyakis/pandas-strong
-
-Reinforcement Learning (Wait):
-https://github.com/companyakis/reinforcement-learning
 
 Advanced Python (Ongoing):
 https://github.com/companyakis/advanced-python
