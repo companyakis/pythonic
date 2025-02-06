@@ -6,9 +6,6 @@ https://github.com/companyakis/reinforcement-learning
 AI Agents 2025:
 https://github.com/companyakis/ai-agents-2025
 
-FastAPI 2025:
-https://github.com/companyakis/fastapi2025
-
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
 
