@@ -3,8 +3,11 @@
 Reinforcement Learning 2025:
 https://github.com/companyakis/reinforcement-learning
 
-AI Agents 2025:
-https://github.com/companyakis/ai-agents-2025
+FastAPI:
+https://github.com/companyakis/fastapis
+
+Advanced Python (Ongoing):
+https://github.com/companyakis/advanced-python
 
 From Numpy to TensorFlow:
 https://github.com/companyakis/from-numpy-to-tensorflow
@@ -14,9 +17,6 @@ https://github.com/companyakis/gen-ai-and-lang-chain
 
 Pandas Strong:
 https://github.com/companyakis/pandas-strong
-
-Advanced Python (Ongoing):
-https://github.com/companyakis/advanced-python
 
 Algos (2025):
 https://github.com/companyakis/algos-python
