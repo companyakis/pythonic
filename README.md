@@ -3,8 +3,8 @@
 Reinforcement Learning 2025:
 https://github.com/companyakis/reinforcement-learning
 
-FastAPI:
-https://github.com/companyakis/fastapis
+Python Web:
+https://github.com/companyakis/python-web
 
 Advanced Python (Ongoing):
 https://github.com/companyakis/advanced-python
