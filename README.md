@@ -3,8 +3,8 @@
 Reinforcement Learning 2025:
 https://github.com/companyakis/reinforcement-learning
 
-Python Web:
-https://github.com/companyakis/python-web
+Python FullStack AI Agents:
+https://github.com/companyakis/python-full-stack-ai-agents
 
 Advanced Python (Ongoing):
 https://github.com/companyakis/advanced-python
