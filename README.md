@@ -3,8 +3,8 @@
 Deep Reinforcement Learning 2025:
 https://github.com/companyakis/reinforcement-learning
 
-Python FullStack AI Agents:
-https://github.com/companyakis/python-full-stack-ai-agents
+Python FullStack AI:
+https://github.com/companyakis/python-full-stack-ai
 
 Advanced Python (Ongoing):
 https://github.com/companyakis/advanced-python
