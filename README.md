@@ -1,6 +1,6 @@
 # Python AI
 
-Reinforcement Learning 2025:
+Deep Reinforcement Learning 2025:
 https://github.com/companyakis/reinforcement-learning
 
 Python FullStack AI Agents:
